@@ -1,8 +1,5 @@
 """
 Utility functions for the EE4740 Huffman Coding miniproject.
-
-This file keeps the original function names used in the notebook, but removes
-repeated definitions and groups related functions together.
 """
 
 import heapq
